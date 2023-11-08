@@ -13,6 +13,6 @@ This template is crafted to provide a strong foundation for building backend app
 1. Clone the repository: `gh repo clone ozergklp/express-typescript`
 2. Install dependencies: `npm install`
 3. Start the development server: `npx ts-node-dev src/index.ts`
-4. Compile TypeScript to JavaScript:: `npm run build`
+4. Compile TypeScript to JavaScript: `npm run build`
 
 Adjust this template as needed for your project. Happy coding!
